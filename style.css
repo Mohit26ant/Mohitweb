@@ -101,7 +101,7 @@ body {
   background-color: var(--bg-clr-main-bg);
   font-family: "Poppins", sans-serif;
   color: var(--clr-primary-headings);
-  background-image: url("/Users/HP/Documents/web jav/assets/home/background-home-desktop.jpg");
+  background-image: url("https://images.pexels.com/photos/220201/pexels-photo-220201.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
 
   background-repeat: no-repeat;
   background-position: center;
@@ -109,12 +109,12 @@ body {
 }
 @media (max-width: 1100px) {
   body {
-    background-image: url("/Users/HP/Documents/web jav/assets/home/background-home-tablet.jpg");
+    background-image: url("https://images.pexels.com/photos/87651/earth-blue-planet-globe-planet-87651.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1");
   }
 }
 @media (max-width: 45em) {
   body {
-    background-image: url("/Users/HP/Documents/web jav/assets/home/background-home-mobile.jpg");
+    background-image: url("https://images.pexels.com/photos/1624496/pexels-photo-1624496.jpeg?auto=compress&cs=tinysrgb&w=600");
 
     background-size: cover;
   }
